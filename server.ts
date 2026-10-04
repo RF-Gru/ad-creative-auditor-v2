@@ -497,4 +497,10 @@ async function startServer() {
   });
 }
 
-startServer();
+// Only auto-listen if not running in serverless environments (like Vercel)
+if (process.env.VERCEL !== '1' && !process.env.VERCEL_ENV) {
+  startServer();
+}
+
+export { app };
+export default app;
