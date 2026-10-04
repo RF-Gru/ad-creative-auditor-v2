@@ -1,0 +1,8 @@
+{
+  "name": "Ad Campaign Creative Auditor & Generator",
+  "description": "Automated ad campaign CSV cleaner, KPI diagnostic dashboard, Gemini creative pattern extractor, and 5-variation ad copy workshop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
