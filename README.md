@@ -16,7 +16,27 @@ Performance marketing teams often spend hours manually downloading, cleaning, an
 5. **Full Exportability**: Exports cleaned, enriched CSVs containing complete performance classifications and diagnostic audit notes.
 
 ---
+## 📸 Product Walkthrough
 
+### 1. Ingestion & Diagnostic Dashboard
+Automated fuzzy header mapping, derived metric repair (CPA, ROAS, CTR), and dataset health verification.
+![Ingestion and Diagnostic Dashboard](preview-dashboard.png)
+
+### 2. Custom Benchmarking & Target Configuration
+Dynamic thresholding modal to customize winner/underperformer classification based on target KPIs.
+![Custom Benchmark Thresholds](benchmark.png)
+
+### 3. Campaign Performance Summary
+Executive stat cards and interactive visual distribution of ROAS vs. CPA efficiency.
+![Performance Summary Diagnostics](perf_summary.png)
+
+### 4. Ad Creative Performance Directory
+Searchable, filterable audit directory categorizing creatives into Winners, Underperformers, and Fatigued.
+![Performance Directory Table](preview_auditor.png)
+
+### 5. AI Ad Copy Generator Workshop
+Context-aware prompt chaining module generating 5 high-converting ad variants based on top performance patterns.
+![AI Copy Generator Workshop](preview_workshop.png)
 ## 🚀 Key Features
 
 ### 1. Robust CSV Cleaner & Ingestion Engine
