@@ -20,7 +20,7 @@ Performance marketing teams often spend hours manually downloading, cleaning, an
 
 ### 1. Ingestion & Diagnostic Dashboard
 Automated fuzzy header mapping, derived metric repair (CPA, ROAS, CTR), and dataset health verification.
-![Ingestion and Diagnostic Dashboard](preview-dashboard.png)
+![Ingestion and Diagnostic Dashboard](preview_dashboard.png)
 
 ### 2. Custom Benchmarking & Target Configuration
 Dynamic thresholding modal to customize winner/underperformer classification based on target KPIs.
